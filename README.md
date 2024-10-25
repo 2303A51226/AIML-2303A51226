@@ -15,4 +15,4 @@
 
 [lab 8] - https://github.com/2303A51226/AIML-2303A51226/blob/main/AIML_LAB_08.ipynb
 
-[lab 9] - https://github.com/2303A51226/AIML-2303A51226/blob/main/AIML_lab%3D09.ipynb
+[lab 10] - https://github.com/2303A51226/AIML-2303A51226/blob/main/AIML_lab%3D09.ipynb

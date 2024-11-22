@@ -18,3 +18,5 @@
 [lab 9] - https://github.com/2303A51226/AIML-2303A51226/blob/main/AIML_LAB_09.ipynb
 
 [lab 10] - https://github.com/2303A51226/AIML-2303A51226/blob/main/AIML_lab%3D09.ipynb
+
+[lab mock]-https://github.com/2303A51226/AIML-2303A51226/blob/main/Lab_mock_exam.ipynb
